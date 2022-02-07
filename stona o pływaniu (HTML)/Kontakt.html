@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8"/>
+	<title>Dariusz Mech - Moje Hobby. Pływanie</title>
+	<meta name="description" content="Moje Hobby - Pływanie"/>
+	<meta name="keywords" content="pływanie,hobby,sport,zdrowie"/>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="fontello/css/fontello.css" type="text/css"/>  
+</head>
+<body>
+	<div id="Kontener">
+		<header>
+		PŁYWANIE
+		</header>
+		<nav class="sticky">
+			<ol>
+				<li><a href="index.html" class="klik"><div class="kwadrat"><i class="icon-home"></i> <br>Strona Główna</div></a></li>
+				<li><a href="StylePływackie.html" class="klik"><div class="kwadrat"><i class="icon-swimming"></i><br>Style Pływackie</div></a>
+					<ul>
+						<li><a href="StylePływackie.html#kraul" class="klik2"><div class="kwadrat2">Dowolny</div></a></li>
+						<li><a href="StylePływackie.html#zaba" class="klik2"><div class="kwadrat2">Klasyczny</div></a></li>
+						<li><a href="StylePływackie.html#grzbiet" class="klik2"><div class="kwadrat2">Grzbietowy</div></a></li>
+						<li><a href="StylePływackie.html#motyl" class="klik2"><div class="kwadrat2">Motylkowy</div></a></li>
+					</ul>
+				</li>
+				<li><a href="Galeria.html" class="klik"><div class="kwadrat"><i class="icon-picture"></i><br>Galeria</div></a></li>
+				<li><a href="Kontakt.html" class="klik" ><div class="kwadrat"><i class="icon-mail"></i><br>Kontakt</div></a></li>
+				<li><a href="PrzydatneLinki.html" class="klik"><div class="kwadrat"><i class="icon-link"></i><br>Przydatne Linki</div></a>
+					<ul>
+						<li><a href="http://www.megatiming.pl/" target="_blank" class="klik2"><div class="kwadrat2">Megatiming.pl</div></a></li>
+						<li id="dlugi"><a href="http://www.polswim.pl/" target="_blank" class="klik2"><div class="kwadrat2">Polski <br>Związek Pływacki</div></a></li>
+						<li><a href="https://www.swimrankings.net/index.php?page=home" target="_blank" class="klik2"><div class="kwadrat2">Ranking Europejski</div></a></li>
+					</ul>
+				</li>
+			</ol>
+		</nav>
+		<section> 
+			<div id="ust">
+			<table id="tabela">
+				<tr><th colspan="2">Informacje o autorze strony</th></tr>
+				<tr><th>Imię</th><td>Dariusz</td></tr>
+				<tr><th>Nazwisko</th><td>Mech</td></tr>
+				<tr><th>Tel.</th><td>123456789</td></tr>
+				<tr><th>E-mail</th><td>email@hobby.pl</td></tr>
+			</table>
+			<h2>Masz jakieś pytania? - Zostaw wiadomość</h2>
+			<form action="pytania.php" method="post">
+			<table id="kontakt">
+					<tr><th><label>Imię</label></th><td><input type="text" name="Imię" /></td><td></td></tr>
+					<tr><th><label>Nazwisko</label></th><td><input type="text" name="nazwisko" /></td><td></td></tr>
+					<tr><th><label>Nr. tel.</label></th><td><input type="text" name="telefon" /></td><td></td></tr>
+					<tr><th><label>E-mail</label></th><td><input type="text" name="mail" /></td><td></td></tr>
+					<tr><th><label>Hasło</label></th><td><input type="password" name="haslo" /></td><td></td></tr>
+					<tr><th>Płeć:</th><td class="p"><label for="m">Mężczyzna:</label><input type="radio" name="plec" id="m" value="m"><label for="k">Kobieta:&nbsp;</label><input type="radio" name="plec" id="k" value="k"></td><td></td></tr>
+					<tr><th>Rodzaj wiadomości</th><td>
+					<select name="select">
+					<option> Opinia</option>
+					<option> Pytanie</option>
+					<option> Współpraca &nbsp; &nbsp; &nbsp; &nbsp; </option>
+					<option> Inne</option>
+					</select></td><td></td>
+					<tr><td class="tresc" colspan="2"><textarea name="opis" rows="6" cols="36" placeholder="Treść wiadomości: "></textarea>
+					<label><input type="checkbox" name="zgoda" required>Zapoznałem się z regulaminem.</label>
+					</td><td></td></tr>
+					<tr><td colspan="2"><input type="reset" value="Wyczyść" />&nbsp;<input type="submit" name="submit" value="Wyślij"></td><td></td></tr>
+			</table>
+			</form>
+			</div>
+		</section>
+		<footer>
+			<p>Projekt "Moje hobby" - Dariusz Mech</p>
+		</footer>
+
+
+	</div>
+</body>
+</html>

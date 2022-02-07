@@ -1,0 +1,290 @@
+﻿body{
+	background-color:#336666;
+	color:white;
+	border-radius:10px;
+}
+
+#Kontener{
+	border-radius:10px;
+	background-color:#66ffff;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+}
+
+header{
+	padding:20px;
+	background-color:#66cccc;
+	font-size:50px;
+	text-align:center;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+}
+
+nav.sticky{
+	position: -webkit-sticky;
+	position:sticky;
+	top: 0;
+	width:1000px;
+	background-color:#003366;
+	height:80px;
+	padding:10px 0px 20px 0px;
+	z-index:100;
+}
+
+ol{
+	list-style-type:none;
+	margin-bottom:10px;
+	margin-top:10px;
+	padding:0px;
+}
+
+ol>li{
+	background-color:#66ffff;
+	text-align:center;
+	width:176px;
+	float:left;
+	margin-right:10px;
+	margin-left:10px;
+}
+
+ol>li:first-child{
+	margin-left:20px;
+}
+
+ol>li>ul{
+	position:absolute;
+	width:176px;
+	background-color:#66ffff;
+	list-style-type:none;
+	padding:0px;
+	margin:7px 0px 0px 0px ;
+	display:none;
+}
+
+ol>li:hover>ul{
+	display:block;
+}
+
+ol>li>ul>li{
+	min-height:30px;
+	max-height:50px;
+	border-bottom:1px solid #003366;
+	border-left:1px solid #003366;
+	border-right:1px solid #003366;
+	padding:0px;
+}
+
+ol>li>ul>li#dlugi{
+	min-height:30px;
+	max-height:50px;
+	border-bottom:1px solid #003366;
+	border-left:1px solid #003366;
+	border-right:1px solid #003366;
+	padding:0px 0px 5px 0px;
+}
+
+ol>li>ul>li:first-child{
+	border-top:1px solid #003366;
+}
+
+ol>li>ul>li:hover{
+	background-color:#66cccc;
+}
+
+.kwadrat{
+	padding:10px 0px 10px 0px;
+}
+
+.kwadrat:hover{
+	background-color:#66cccc;
+	transition-duration: 0ms;
+    -webkit-transform: scale(1.2);
+}
+
+a.klik{
+	color:#003366;
+	text-decoration:none;
+}
+
+.kwadrat2{
+	padding-top:5px;
+}
+
+.kwadrat2:hover{
+	transition-duration: 0ms;
+    -webkit-transform: scale(1.2);
+	padding-top:5px;
+}
+
+a.klik2{
+	color:#003366;
+	text-decoration:none;
+}
+
+section{
+	clear:both;
+	color:black;
+	padding:20px 20px 20px 20px;
+	text-align:center;
+}
+
+#zawSG{
+	width:960px;
+	height:520px;
+}
+
+.ogólnie1{
+	animation:tlo 2500ms linear 0s infinite alternate forwards;
+	font-size:25px;
+	background-color:#66cccc;
+	width:380px;
+	padding:20px;
+	height:160px;
+	margin:25px 30px 25px 30px;
+	float:left;
+	border-radius:10px;
+}
+
+.ogólnie2{
+	animation:tlo 2500ms linear 0s infinite alternate forwards;
+	font-size:25px;
+	background-color:#66cccc;
+	width:420px;
+	padding:0px;
+	height:200px;
+	margin:25px 30px 25px 30px;
+	float:left;
+	border-radius:10px;
+}
+
+ @keyframes tlo
+      {
+        0% { background-color:#66cccf; }
+        100% { background-color:#00ffcc; }
+      }
+
+footer{
+	background-color:#003366;
+	height:40px;
+	text-align:center;
+	padding:5px 0px 10px 0px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+}
+
+h5{
+	display:none;
+}
+
+h1{
+	padding:0px 0px 20px 0px;
+}
+
+h3{
+	font-size:45px;
+}
+
+h4{
+	font-size:20px;
+}
+
+i{
+	font-size:30px;
+}
+
+article{
+	background-color:#66cccc;
+	padding:5px 40px 40px 40px;
+	margin-bottom:20px;
+}
+
+article img{
+	width:700px;
+	height:400px;
+}
+
+.galeria{
+	height:234px;
+	padding:0px 23px 0px 23px;
+	margin:0px 20px 0px 20px;
+	float:left;
+}
+
+tr>td{
+	padding:10px 40px 10px 40px;
+}
+
+.foto img{
+	 width:234px;
+}
+
+.foto img:hover {
+	
+	transition-duration: 500ms;
+    -webkit-transform: scale(1.9);
+    z-index: 0;
+}
+
+#tabela{
+	margin-top:50px;
+	float:left;
+	width:420px;
+	border-collapse: collapse;
+	margin-left:35px;
+}
+#tabela td{
+	border-bottom:1px solid black;
+	border-top:1px solid black;
+	border-right:1px solid black;
+	border-left:1px solid black;
+}
+
+#tabela th{
+	min-width:100px;
+	border-bottom:1px solid black;
+	padding:10px 0px 10px 0px;
+	border-top:1px solid black;
+	border-right:1px solid black;
+	border-left:1px solid black;
+}
+
+#kontakt{
+	margin-top:0px;
+	width:200px;
+	margin-left:550px;
+	margin-right:0px;
+}
+#kontakt th{
+	width:50px;
+}
+
+#kontakt td{
+	max-width:150px;
+	text-align:right;
+}
+
+#kontakt td.p{
+	padding-right:50px;
+	text-align:right;
+}
+
+#kontakt td.tresc{
+	padding:0px 40px 0px 0px;
+}
+
+textarea{
+	margin:20px;
+}
+
+.przydatnylink{
+	background-color:#66cccc;
+}
+
+b{
+	font-size:35px;
+}
+
+
+

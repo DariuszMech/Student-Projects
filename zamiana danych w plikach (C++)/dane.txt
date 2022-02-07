@@ -1,0 +1,5 @@
+tytul=Plik
+sciezka=c:\"pliki programow"\dane\'podkatalog'
+test=
+wariant1=xyz
+wariant2=abc

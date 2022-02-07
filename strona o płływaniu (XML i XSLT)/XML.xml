@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Transformacja1.xsl"?>
+<Najlepsi_plywacy>
+	<zawodnik1 imie="Michael" spacja=" " nazwisko="Phelps" >
+		<glowny_styl>Motylkowy</glowny_styl>
+		<typ>Średniodystansowiec</typ>
+		<Narodowosc>USA</Narodowosc>
+		<wzrost  miara=" cm">194</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">24.37</wynik>
+					<wynik metry="100">48.64</wynik>
+					<wynik metry="200">1.51.52</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">25.24</wynik>
+					<wynik metry="100">49.82</wynik>
+					<wynik metry="200">1.52.26</wynik>
+					<wynik metry="400">3.46.73</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">55.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">26.34</wynik>
+					<wynik metry="100">57.67</wynik>
+					<wynik metry="200">2.12.34</wynik>
+					<wynik metry="400">5.17.30</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">28.17</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">1.59.34</wynik>
+					<wynik metry="400">3.52.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">29.47</wynik>
+					<wynik metry="100">59.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">41.34</wynik>
+					<wynik metry="100">47.29</wynik>
+					<wynik metry="200">2.01.34</wynik>
+					<wynik metry="400">4.10.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">21.24</wynik>
+					<wynik metry="100">47.51</wynik>
+					<wynik metry="200">1.42.96</wynik>
+					<wynik metry="400">3.46.73</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/Michael_Phelps#Sukcesy</wikipedia>
+			<facebook>https://www.facebook.com/michaelphelps/</facebook>
+			<instagram>https://www.instagram.com/m_phelps00/</instagram>
+		</linki>
+		<zdjecie>img/phelps.jpg</zdjecie>
+	</zawodnik1>
+	
+	<zawodnik2 imie="Adam"  spacja=" " nazwisko="Peaty">
+		<glowny_styl>Klasyczny</glowny_styl>
+		<typ>Sprinter</typ>
+		<Narodowosc>Wielka Brytania</Narodowosc>
+		<wzrost  miara=" cm">193</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">22.23</wynik>
+					<wynik metry="100">56..44</wynik>
+					<wynik metry="200">2.02.34</wynik>
+					<wynik metry="400">4.32.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">23.98</wynik>
+					<wynik metry="100">54.67</wynik>
+					<wynik metry="200">2.04.34</wynik>
+					<wynik metry="400">4.56.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">35.98</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">36.32</wynik>
+					<wynik metry="100">52.66</wynik>
+					<wynik metry="200">2.11.34</wynik>
+					<wynik metry="400">3.45.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">35.76</wynik>
+					<wynik metry="100">1.08.65</wynik>
+					<wynik metry="200">2.19.54</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">35.43</wynik>
+					<wynik metry="100">1.11.43</wynik>
+					<wynik metry="200">2.26.54</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">26.23</wynik>
+					<wynik metry="100">58.73</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia> spacja=" "</wikipedia>
+			<facebook>https://www.facebook.com/AdamPeaty94/</facebook>
+			<instagram>https://www.instagram.com/adam_peaty/</instagram>
+		</linki>
+		<zdjecie>img/peaty.jpg</zdjecie>
+	</zawodnik2>
+	
+	<zawodnik3 imie="Konrad"  spacja=" " nazwisko="Czerniak">
+		<glowny_styl>Motylkowy</glowny_styl>
+		<typ>Sprinter</typ>
+		<Narodowosc>Polska</Narodowosc>
+		<wzrost  miara=" cm">195</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/Konrad_Czerniak</wikipedia>
+			<facebook>https://www.facebook.com/konrad.czerniak.info/</facebook>
+			<instagram>https://www.instagram.com/kobrado1/</instagram>
+		</linki>
+		<zdjecie>img/czerniak.jpg</zdjecie>
+	</zawodnik3>
+	
+	<zawodnik4 imie="Caeleb"  spacja=" " nazwisko="Dressel" >
+		<glowny_styl>Dowolny</glowny_styl>
+		<typ>Sprinter</typ>
+		<Narodowosc>USA</Narodowosc>
+		<wzrost  miara=" cm">191</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">31.34</wynik>
+					<wynik metry="100">1.12.56</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">25.55</wynik>
+					<wynik metry="100">56.45</wynik>
+					<wynik metry="200">2.02.47</wynik>
+					<wynik metry="400">4.34.44</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/Caeleb_Dressel#Rekordy_%C5%BCyciowe</wikipedia>
+			<facebook>https://www.facebook.com/C.DresselSwimmer/</facebook>
+			<instagram>https://www.instagram.com/caelebdressel/</instagram>
+		</linki>
+		<zdjecie>img/dressel.jpg</zdjecie>
+	</zawodnik4>
+	
+	<zawodnik5 imie="Cesar"  spacja=" " nazwisko="Cielo Filho" >
+		<glowny_styl>Dowolny</glowny_styl>
+		<typ>Sprinter</typ>
+		<Narodowosc>Brazylia</Narodowosc>
+		<wzrost  miara=" cm">195</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">31.34</wynik>
+					<wynik metry="100">1.12.56</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">25.55</wynik>
+					<wynik metry="100">56.45</wynik>
+					<wynik metry="200">2.02.47</wynik>
+					<wynik metry="400">4.34.44</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/C%C3%A9sar_Cielo</wikipedia>
+			<facebook>https://www.facebook.com/CesarCielo/</facebook>
+			<instagram>https://www.instagram.com/cesarcielof/</instagram>
+		</linki>
+		<zdjecie>img/cielo.jpg</zdjecie>
+	</zawodnik5>
+	
+	<zawodnik6 imie="Florent"  spacja=" " nazwisko="Manaudou" >
+		<glowny_styl>Dowolny</glowny_styl>
+		<typ>Sprinter</typ>
+		<Narodowosc>Francja</Narodowosc>
+		<wzrost  miara=" m">2</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">31.34</wynik>
+					<wynik metry="100">1.12.56</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">25.55</wynik>
+					<wynik metry="100">56.45</wynik>
+					<wynik metry="200">2.02.47</wynik>
+					<wynik metry="400">4.34.44</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/Florent_Manaudou</wikipedia>
+			<facebook>https://www.facebook.com/FlorentManaudou.Officiel/</facebook>
+			<instagram>https://www.instagram.com/florentmanaudou/</instagram>
+		</linki>
+		<zdjecie>img/manaudou.jpg</zdjecie>
+	</zawodnik6>
+	
+	<zawodnik7 imie="Sun"  spacja=" " nazwisko="Yang" >
+		<glowny_styl>Dowolny</glowny_styl>
+		<typ>Długodystansowiec</typ>
+		<Narodowosc>Chiny</Narodowosc>
+		<wzrost  miara=" cm">198</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">31.34</wynik>
+					<wynik metry="100">1.12.56</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">25.55</wynik>
+					<wynik metry="100">56.45</wynik>
+					<wynik metry="200">2.02.47</wynik>
+					<wynik metry="400">4.34.44</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/Sun_Yang</wikipedia>
+			<facebook>https://www.facebook.com/Sun-Yang-236287056411610/</facebook>
+			<instagram>https://www.instagram.com/p/BI3po6shpTx/</instagram>
+		</linki>
+		<zdjecie>img/yang.jpg</zdjecie>
+	</zawodnik7>
+	
+	<zawodnik8 imie="Ryōsuke"  spacja=" " nazwisko="Irie" >
+		<glowny_styl>Grzbietowy</glowny_styl>
+		<typ>Średniodystansowiec</typ>
+		<Narodowosc>Japonia</Narodowosc>
+		<wzrost  miara=" cm">178</wzrost>
+		<rekordy_zyciowe>
+			<czasy styl="motylkowy">
+				<basen_krotki>
+					<wynik metry="50">31.34</wynik>
+					<wynik metry="100">1.12.56</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="grzbietowy">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="klasyczny">
+				<basen_krotki>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+			<czasy styl="dowolny">
+				<basen_krotki>
+					<wynik metry="50">25.55</wynik>
+					<wynik metry="100">56.45</wynik>
+					<wynik metry="200">2.02.47</wynik>
+					<wynik metry="400">4.34.44</wynik>
+				</basen_krotki>
+				<basen_dlugi>
+					<wynik metry="50">24.87</wynik>
+					<wynik metry="100">56.67</wynik>
+					<wynik metry="200">2.06.34</wynik>
+					<wynik metry="400">5.12.40</wynik>
+				</basen_dlugi>
+			</czasy>
+		</rekordy_zyciowe>
+		<linki>
+			<wikipedia>https://pl.wikipedia.org/wiki/Ry%C5%8Dsuke_Irie</wikipedia>
+			<facebook>https://www.facebook.com/ryosuke.irie.12</facebook>
+			<instagram>https://www.instagram.com/ryosuke_irie/</instagram>
+		</linki>
+		<zdjecie>img/irie.jpg</zdjecie>
+	</zawodnik8>
+	
+</Najlepsi_plywacy>

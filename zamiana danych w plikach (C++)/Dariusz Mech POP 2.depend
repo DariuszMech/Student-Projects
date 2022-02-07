@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1578240208 source:c:\users\test\desktop\dariusz mech pop 2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<string>
+
+1578445725 source:c:\users\test\desktop\dariusz mech pop 2 - kopia\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+	<string>
+
+1578445815 source:c:\users\test\desktop\dariusz mech pop 2 ostatni - kopia\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+	<string>
+
+1578499713 source:c:\users\test\desktop\wersja\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+	<string>
+
+1578520357 source:c:\users\test\desktop\wersja - kopia (2)\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+	<string>
+
+1578588283 source:c:\users\test\desktop\najlepsz wersja\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<conio.h>
+	<string>
+
+1578706448 source:c:\users\test\desktop\najlepsz wersja !!!!koniec!!!!\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<string>
+

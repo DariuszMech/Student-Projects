@@ -1,0 +1,5 @@
+To jest Plik.
+PLIK plik
+Sciezka do pliku to "c:\\\"pliki programow\"\\dane\\\'podkatalog\'"
+test: abc
+{tytul}

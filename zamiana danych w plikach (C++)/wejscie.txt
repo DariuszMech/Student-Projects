@@ -1,0 +1,5 @@
+To jest {tytul}.
+{^tytul} {_tytul}
+Sciezka do pliku to {"sciezka}
+test: {?test:wariant1:wariant2}
+{{tytul}}

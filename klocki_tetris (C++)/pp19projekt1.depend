@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1573650359 source:c:\users\test\desktop\pp19projekt1\conio2.cpp
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"conio2.h"
+	<cstdlib>
+
+1573649230 c:\users\test\desktop\pp19projekt1\conio2.h
+	<cstdio>
+
+1575843549 source:c:\users\test\desktop\pp19projekt1\main.cpp
+	<cstdio>
+	<thread>
+	<chrono>
+	<ctype.h>
+	"conio2.h"
+
+1573650359 source:c:\users\test\desktop\pp19projekt1 (2)\conio2.cpp
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"conio2.h"
+	<cstdlib>
+
+1573649230 c:\users\test\desktop\pp19projekt1 (2)\conio2.h
+	<cstdio>
+
+1575843549 source:c:\users\test\desktop\pp19projekt1 (2)\main.cpp
+	<cstdio>
+	<thread>
+	<chrono>
+	<ctype.h>
+	"conio2.h"
+
+1575845326 source:c:\users\test\desktop\projekt pop dariusz mech\projekt 1\projekt 1\conio2.cpp
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"conio2.h"
+	<cstdlib>
+
+1575845326 c:\users\test\desktop\projekt pop dariusz mech\projekt 1\projekt 1\conio2.h
+	<cstdio>
+
+1575845326 source:c:\users\test\desktop\projekty\projekt pop dariusz mech\projekt 1\projekt 1\conio2.cpp
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"conio2.h"
+	<cstdlib>
+
+1575845326 c:\users\test\desktop\projekty\projekt pop dariusz mech\projekt 1\projekt 1\conio2.h
+	<cstdio>
+
+1575845326 source:c:\users\test\desktop\projekty\projekt pop dariusz mech\projekt 1\projekt 1\main.cpp
+	<cstdio>
+	<ctype.h>
+	"conio2.h"
+
